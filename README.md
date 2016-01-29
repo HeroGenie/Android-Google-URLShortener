@@ -25,6 +25,10 @@ You can find the demo application in sample Folder, which name is **GoogleUrlSho
 Please create a server key or browser key.  
 Please refer to the part “Acquiring and using an API key” in the below URL.  
 [https://developers.google.com/url-shortener/v1/getting_started](https://developers.google.com/url-shortener/v1/getting_started)
+
+##### Set Google API KEY
+Set KEY variable in **ShortURL.java** Class.
+
     
 ### Using the Library
 
