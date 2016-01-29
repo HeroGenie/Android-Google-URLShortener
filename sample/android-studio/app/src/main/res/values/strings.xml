@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleUrlShortener</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="short_url">Short URL</string>
+</resources>
